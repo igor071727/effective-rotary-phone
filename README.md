@@ -1,3 +1,5 @@
+![](https://media.tenor.com/7s3XS8-Fv0cAAAAd/seu-madruga-madruga.gif)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.linkedin.com%2Fposts%2Fananuneslpg_html-css-alura-activity-6938562783080800257-rXgF&psig=AOvVaw2HFJjwFZGEculE8oW02HNL&ust=1696329380802000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjWiMOV14EDFQAAAAAdAAAAABAW
 #banner {
 	width:100%;
 }
