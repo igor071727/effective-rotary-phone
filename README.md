@@ -1,4 +1,5 @@
 ![](https://angelicaalbuquerque.github.io/barbearia_alura/banner-1600x600.jpg)
+![](https://gitricardosantos.github.io/Barbearia/logo.png)
 #banner {
 	width:100%;
 }
