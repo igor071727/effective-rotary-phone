@@ -1,4 +1,4 @@
-https://angelicaalbuquerque.github.io/barbearia_alura/barba.jpg
+![](https://angelicaalbuquerque.github.io/barbearia_alura/barba.jpg)
 #banner {
 	width:100%;
 }
