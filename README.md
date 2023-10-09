@@ -1,6 +1,31 @@
 ![](https://angelicaalbuquerque.github.io/barbearia_alura/banner-1600x600.jpg)
 ![](https://gitricardosantos.github.io/Barbearia/logo.png)
 #banner {
+
+
+    Home
+    Produtos
+    Contato
+
+    Cabelo
+
+    Na tesoura ou máquina, como o cliente preferir
+
+    R$ 25,00
+    Barba
+
+    Corte e desenho profissional de barba
+
+    R$ 18,00
+    Cabelo + Barba
+
+    Pacote completo de cabelo e barba
+
+    R$ 35,00
+
+© Copyright Barbearia Alura - 2019
+
+
 	width:100%;
 }
 
