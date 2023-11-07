@@ -123,3 +123,4 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+![](![cabelo](https://github.com/igor071727/effective-rotary-phone/assets/140507679/94156cf5-f9dc-4a01-bfcd-9dfc7e711b01)
