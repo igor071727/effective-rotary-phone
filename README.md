@@ -69,6 +69,8 @@ ul {
 	width: 20%;
 	margin-right: 15%;
 }
+![](![beneficios](https://github.com/igor071727/effective-rotary-phone/assets/140507679/af849387-a945-488f-882d-bb97d3f7090f)
+
 
 .imagembeneficios {
 	width: 50%;
